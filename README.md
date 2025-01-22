@@ -1,28 +1,35 @@
-# Full Stack Projects 💻 🌟  
+# **Loading...** ⚙️  
 
-Welcome to the **Full Stack Projects** repository! This repository contains a collection of full-stack web applications showcasing a variety of technologies, including frontend frameworks, backend services, and databases. Each project will have its own dedicated branch, ensuring a clean and organized structure for future contributions.  
+# API Creation MERN Stack Demo 🌐  
 
----
-
-## Current Project 🛠️  
-
-- **Project Name**: API Creation MERN Stack Demo 🌐  
-  - **Frontend**: React  
-  - **Backend**: Node.js, Express  
-  - **Database**: MongoDB  
-  - **Description**: A social platform for developers to showcase their profiles, share projects, and connect with others.  
-  - **Status**: Ongoing  
+Welcome to the **API Creation MERN Stack Demo**! This repository showcases a full-stack web application using the MERN stack (MongoDB, Express, React, Node.js), focusing on building and deploying a backend API with a user-friendly frontend interface.  
 
 ---
 
-## Technologies Used 💡  
+## Tech Used  
 
-This repo will contain the future:
-- **Frontend**: React, Angular, Vue.js, etc. 🌟  
-- **Backend**: Node.js, Express, Django, Ruby on Rails, etc. 🛠️  
-- **Databases**: MongoDB, PostgreSQL, MySQL, SQLite, etc. 💾  
-- **Version Control**: Git, GitHub 🔧  
-- **Testing**: Jest, Mocha, Selenium 🧪  
-- **Deployment**: Heroku, AWS, Netlify, Vercel 🚀  
+- **ES6+ JavaScript**  
+- **Node.js/Express**  
+- **MongoDB**  
+- **React & Redux**  
+- **Twitter Bootstrap 4**  
+- **Heroku & Git For Deployment**  
+
+---
+
+## Features  
+
+- **Create backend API with Node/Express**  
+- **Test with Postman**  
+- **Bootstrap Theme**  
+- **React** and its connection with the backend  
+- **Redux** for state management  
+- **Build & deploy to Heroku**  
+
+---
+
+## Credits  
+
+This project is inspired by [Packt’s MERN Stack Front-to-Back](https://github.com/packtpublishing/mern-stack-front-to-back-full-stack-react-redux-and-node.js) full-stack guide.  
 
 ---
